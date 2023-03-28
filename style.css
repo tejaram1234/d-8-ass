@@ -1,0 +1,44 @@
+.name-input{
+    position: absolute;
+    margin-left: 500px;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+#name-input{
+    position: absolute;
+    margin-left: 610px;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.gender-input{
+    position: absolute;
+    margin-left: 500px;
+    font-size: 30px;
+    margin-top: 40px;
+}
+#gender-input{
+    position: absolute;
+    margin-left: 610px;
+    font-size: 30px;
+    margin-top: 40px;
+}
+.submit{
+    margin-left: 700px;
+    font-size: 35px;
+    margin-top: 80px;
+}
+#elements-container{
+    margin-left: 580PX;
+    margin-top: 30PX;
+    font-size: 25PX;
+}
+.male-filter{
+    margin-left: 500PX;
+    margin-top: 120PX;
+    font-size: 20PX;
+}
+.female-filter{
+    margin-left: 50PX;
+    margin-top: 120PX;
+    font-size: 20PX;
+}
